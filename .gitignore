@@ -25,3 +25,4 @@ go.work.sum
 .env
 *.swp
 cmd/json2arr2cbor/json2arr2cbor
+cmd/json2map2cbor/json2map2cbor
